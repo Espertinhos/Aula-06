@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Aula-6</string>
+    <string name="Tela1">Esta e a primeira activity  </string>
+    <string name="proximaAct">Proxima Activity </string>
+    <string name="Tela2">Essa e a segunda Activity</string>
+</resources>
